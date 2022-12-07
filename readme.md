@@ -1,31 +1,28 @@
-# Simple Tailwind CSS Starter
+# Frontend Mentor - NFT preview card component solution
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Usage
+## Table of contents
 
-Install dependencies
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+- [My process](#my-process)
+  - [Built with](#built-with)
 
-```
-npm install
-```
+## Overview
 
-Run Tailwind CLI in watch mode
+### The challenge
 
-```
-npm run dev
-```
+Users should be able to:
 
-You can use tailwind classes in any .html files in the root directory
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
 
-Put any custom CSS that you may have in the **src/input.css** file
+## My process
 
-Add any config values to the **tailwind.config.js** file
+### Built with
 
-To build once, run
-
-```
-npm run build
-```
-
-You only need to deploy your html files and css/style.css
+- Semantic HTML5 markup
+- Flexbox
+- Mobile-first workflow
+- Tailwind CSS
